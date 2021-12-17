@@ -1,0 +1,48 @@
+#assign_header {
+	background-color: darkgreen;
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	margin-bottom: 18px;
+	text-align: center;
+}
+
+#assign_header h4 {
+	margin-bottom: 0px;
+}
+
+.caption {
+	font-size: 14px;
+	color: gray;
+	margin-top: 8px;
+	text-align: right;
+}
+
+img {
+	max-width: 100%;
+}
+
+h1 {
+	font-weight: bold;
+
+}
+
+h2 {
+	font-weight: normal;
+}
+
+
+h4 {
+	font-family: monospace;
+}
+
+iframe {
+	margin-bottom: 18px;
+}
+
+.byline {
+	border-top: 1px solid black;
+	padding-top: 12px;
+}
+/*Feel free to add to this file, but leave the
+stuff above alone.*/
